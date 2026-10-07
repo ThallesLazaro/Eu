@@ -71,7 +71,7 @@ summary::-webkit-details-marker { display: none; }
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(135deg, rgb(19 154 232 / .055), transparent 40%, rgb(243 47 46 / .045));
+  bbackground: linear-gradient(135deg, rgb(19 154 232 / .055), transparent 40%, rgb(243 47 46 / .045));
   pointer-events: none;
 }
 
