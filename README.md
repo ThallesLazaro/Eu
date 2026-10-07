@@ -45,7 +45,7 @@ Segundo o Mídia Kit oficial do YouTube gerado em **6 de outubro de 2026**, o ca
 - **YouTube:** https://youtube.com/@TutoriaisSE
 - **Facebook:** https://www.facebook.com/TutoriaisSE/
 - **Instagram:** https://www.instagram.com/tutoriaisse/
-- **Perfil de Thalles no site:** https://tutoriaisse.com//perfis/thalles-lazaro
+- **Perfil de Thalles no site:** https://tutoriaisse.com/perfis/thalles-lazaro
 
 ## Perfis pessoais oficiais
 
@@ -69,6 +69,6 @@ Segundo o Mídia Kit oficial do YouTube gerado em **6 de outubro de 2026**, o ca
 
 - https://thall.es/
 - https://thall.es/sobre
-- https://tutoriaisse.com//perfis/thalles-lazaro
+- https://tutoriaisse.com/perfis/thalles-lazaro
 - https://tutoriaisse.com/
 - https://youtube.com/@TutoriaisSE
