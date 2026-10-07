@@ -18,7 +18,7 @@
     const dark = isDark(mode);
     document.documentElement.classList.toggle('dark', dark);
     document.documentElement.dataset.themeMode = mode;
-    if (metaTheme) metaTheme.setAttribute('content', dark ? '#09090b' : '#fafafa');
+    if (metaTheme) metaTheme.setAttribute('content', dark ? '#07111f' : '#f8fbff');
     document.querySelectorAll('[data-theme-choice]').forEach(function (button) {
       const active = button.getAttribute('data-theme-choice') === mode;
       button.setAttribute('aria-pressed', active ? 'true' : 'false');

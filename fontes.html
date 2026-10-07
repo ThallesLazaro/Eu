@@ -9,7 +9,7 @@
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta name="color-scheme" content="light dark">
-  <meta name="theme-color" content="#fafafa" id="meta-theme-color">
+  <meta name="theme-color" content="#f8fbff" id="meta-theme-color">
   <link rel="canonical" href="https://thall.es/fontes">
   <link rel="alternate" hreflang="pt-BR" href="https://thall.es/fontes">
   <link rel="alternate" hreflang="x-default" href="https://thall.es/fontes">
@@ -18,7 +18,7 @@
   <link rel="me" href="https://www.threads.com/@eu.thall.es">
   <link rel="me" href="https://github.com/ThallesLazaro/Eu">
   <link rel="me" href="http://tutoriaisse.com/perfil-thalles-lazaro">
-  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="any">
   <link rel="manifest" href="site.webmanifest">
 
   <meta property="og:locale" content="pt_BR">
@@ -167,12 +167,17 @@
 </script>
   <script src="script.js" defer></script>
 </head>
-<body class="min-h-screen bg-white text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100">
+<body class="site-shell min-h-screen bg-white text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100">
 
-<header class="border-b border-zinc-200 bg-white/95 dark:border-zinc-800 dark:bg-zinc-950/95">
+<header class="site-header border-b border-zinc-200 bg-white/95 dark:border-zinc-800 dark:bg-zinc-950/95">
   <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
-    <a href="/" class="min-w-0 text-base font-black tracking-tight text-zinc-950 dark:text-white" aria-label="Thalles Lázaro — início">THALLES LÁZARO</a>
-    <nav class="hidden items-center gap-1 lg:flex" aria-label="Navegação principal"><a href="/" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Início</a><a href="/sobre" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Sobre</a><a href="/projetos" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Projetos</a><a href="/tutoriais-sem-enrolacao" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Tutoriais Sem Enrolação</a><a href="/contato" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Contato</a><a href="/fontes" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-950 dark:text-white" aria-current="page">Fontes</a></nav>
+    <a href="/" class="site-brand min-w-0 text-base font-black tracking-tight" aria-label="Thalles Lázaro — início">THALLES LÁZARO</a>
+    <nav class="hidden items-center gap-1 lg:flex" aria-label="Navegação principal"><a href="/" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Início</a>
+<a href="/sobre" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Sobre</a>
+<a href="/projetos" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Projetos</a>
+<a href="/tutoriais-sem-enrolacao" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Tutoriais Sem Enrolação</a>
+<a href="/contato" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-600 dark:text-zinc-300" >Contato</a>
+<a href="/fontes" class="rounded-lg px-3 py-2 text-sm font-medium transition hover:bg-zinc-100 dark:hover:bg-zinc-900 text-zinc-950 dark:text-white" aria-current="page">Fontes</a></nav>
     <div class="flex items-center gap-2">
       <div class="flex items-center rounded-xl border border-zinc-200 bg-zinc-50 p-1 dark:border-zinc-800 dark:bg-zinc-900" role="group" aria-label="Tema do site">
         <button type="button" data-theme-choice="sistema" class="theme-choice inline-flex min-h-9 min-w-9 items-center justify-center rounded-lg px-2 text-xs font-semibold text-zinc-600 transition hover:bg-white dark:text-zinc-300 dark:hover:bg-zinc-800" aria-label="Usar tema do sistema" title="Sistema">
@@ -192,15 +197,20 @@
         <summary class="flex min-h-11 min-w-11 cursor-pointer list-none items-center justify-center rounded-xl border border-zinc-200 bg-white text-zinc-900 dark:border-zinc-800 dark:bg-zinc-950 dark:text-white" aria-label="Abrir menu">
           <img src="fa-bars.svg" alt="" class="h-5 w-5 dark:invert" width="20" height="20">
         </summary>
-        <nav class="absolute right-0 z-20 mt-2 w-72 rounded-2xl border border-zinc-200 bg-white p-2 shadow-xl dark:border-zinc-800 dark:bg-zinc-950" aria-label="Navegação móvel"><a href="/" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Início</a><a href="/sobre" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Sobre</a><a href="/projetos" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Projetos</a><a href="/tutoriais-sem-enrolacao" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Tutoriais Sem Enrolação</a><a href="/contato" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Contato</a><a href="/fontes" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Fontes</a></nav>
+        <nav class="absolute right-0 z-20 mt-2 w-72 rounded-2xl border border-zinc-200 bg-white p-2 shadow-xl dark:border-zinc-800 dark:bg-zinc-950" aria-label="Navegação móvel"><a href="/" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Início</a>
+<a href="/sobre" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Sobre</a>
+<a href="/projetos" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Projetos</a>
+<a href="/tutoriais-sem-enrolacao" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Tutoriais Sem Enrolação</a>
+<a href="/contato" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Contato</a>
+<a href="/fontes" class="block rounded-lg px-3 py-2 text-sm font-medium hover:bg-zinc-100 dark:hover:bg-zinc-900">Fontes</a></nav>
       </details>
     </div>
   </div>
 </header>
 <main>
 
-<section class="mx-auto max-w-4xl px-4 pb-8 pt-14 sm:px-6 sm:pt-20 lg:px-8">
-  <p class="text-sm font-bold uppercase tracking-[0.16em] text-zinc-500">Referências</p>
+<section class="hero-section mx-auto max-w-4xl px-4 pb-8 pt-14 sm:px-6 sm:pt-20 lg:px-8">
+  <p class="eyebrow text-sm font-bold uppercase tracking-[0.16em] text-zinc-500">Referências</p>
   <h1 class="mt-3 text-4xl font-black tracking-tight text-zinc-950 sm:text-5xl dark:text-white">Fontes e referências</h1>
   <p class="mt-6 text-xl leading-8 text-zinc-600 dark:text-zinc-300">Esta página reúne as principais fontes usadas para manter consistentes as informações públicas apresentadas em thall.es.</p>
 </section>
@@ -208,10 +218,14 @@
   <div class="space-y-5">
     <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Site oficial de Thalles Lázaro</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Fonte primária para biografia, contato e informações públicas mantidas por Thalles Lázaro.</p><a href="https://thall.es/" class="mt-4 inline-block font-bold underline underline-offset-4">https://thall.es/</a></article>
     <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Perfil de Thalles Lázaro no Tutoriais Sem Enrolação</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Página de perfil no site oficial do projeto Tutoriais Sem Enrolação vinculada à identidade pública de Thalles Lázaro.</p><a href="http://tutoriaisse.com/perfil-thalles-lazaro" target="_blank" rel="me noopener noreferrer" class="mt-4 inline-block font-bold underline underline-offset-4">http://tutoriaisse.com/perfil-thalles-lazaro</a></article>
-    <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">GitHub de Thalles Lázaro</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Presença pública de Thalles Lázaro no GitHub.</p><a href="https://github.com/ThallesLazaro/Eu" target="_blank" rel="me noopener noreferrer" class="mt-4 inline-block font-bold underline underline-offset-4">https://github.com/ThallesLazaro/Eu</a></article>
-    <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Perfis pessoais</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Perfis públicos de Thalles Lázaro nas redes sociais.</p><div class="mt-4 flex flex-wrap gap-x-5 gap-y-3 text-sm font-bold"><a href="https://www.facebook.com/www.Thall.es" target="_blank" rel="me noopener noreferrer" class="underline underline-offset-4">Facebook</a><a href="https://www.instagram.com/eu.thall.es/" target="_blank" rel="me noopener noreferrer" class="underline underline-offset-4">Instagram</a><a href="https://www.threads.com/@eu.thall.es" target="_blank" rel="me noopener noreferrer" class="underline underline-offset-4">Threads</a></div></article>
+    <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">GitHub de Thalles Lázaro</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Presença pública de Thalles Lázaro no GitHub.</p><a href="https://github.com/ThallesLazaro/Eu" target="_blank" rel="me noopener noreferrer" class="mt-4 inline-block font-bold underline underline-offset-4 social-link social-github"><img src="fa-github.svg" alt="" class="social-icon" width="18" height="18"> https://github.com/ThallesLazaro/Eu</a></article>
+    <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Perfis pessoais</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Perfis públicos de Thalles Lázaro nas redes sociais.</p><div class="mt-4 flex flex-wrap gap-x-5 gap-y-3 text-sm font-bold"><a href="https://www.facebook.com/www.Thall.es" target="_blank" rel="me noopener noreferrer" class="underline underline-offset-4 social-link social-facebook"><img src="fa-facebook.svg" alt="" class="social-icon" width="18" height="18"> Facebook</a>
+<a href="https://www.instagram.com/eu.thall.es/" target="_blank" rel="me noopener noreferrer" class="underline underline-offset-4 social-link social-instagram"><img src="fa-instagram.svg" alt="" class="social-icon" width="18" height="18"> Instagram</a>
+<a href="https://www.threads.com/@eu.thall.es" target="_blank" rel="me noopener noreferrer" class="underline underline-offset-4 social-link social-threads"><img src="fa-threads.svg" alt="" class="social-icon" width="18" height="18"> Threads</a></div></article>
     <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Site oficial — Tutoriais Sem Enrolação</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Site do projeto e canal Tutoriais Sem Enrolação, criado e apresentado por Thalles Lázaro.</p><a href="http://tutoriaisse.com/" target="_blank" rel="noopener noreferrer" class="mt-4 inline-block font-bold underline underline-offset-4">http://tutoriaisse.com/</a></article>
-    <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Perfis do Tutoriais Sem Enrolação</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Canais e perfis oficiais do Tutoriais Sem Enrolação.</p><div class="mt-4 flex flex-wrap gap-x-5 gap-y-3 text-sm font-bold"><a href="https://youtube.com/@TutoriaisSE" target="_blank" rel="noopener noreferrer" class="underline underline-offset-4">YouTube</a><a href="https://www.facebook.com/TutoriaisSE/" target="_blank" rel="noopener noreferrer" class="underline underline-offset-4">Facebook</a><a href="https://www.instagram.com/tutoriaisse/" target="_blank" rel="noopener noreferrer" class="underline underline-offset-4">Instagram</a></div></article>
+    <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Perfis do Tutoriais Sem Enrolação</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Canais e perfis oficiais do Tutoriais Sem Enrolação.</p><div class="mt-4 flex flex-wrap gap-x-5 gap-y-3 text-sm font-bold"><a href="https://youtube.com/@TutoriaisSE" target="_blank" rel="noopener noreferrer" class="underline underline-offset-4 social-link social-youtube"><img src="fa-youtube.svg" alt="" class="social-icon" width="18" height="18"> YouTube</a>
+<a href="https://www.facebook.com/TutoriaisSE/" target="_blank" rel="noopener noreferrer" class="underline underline-offset-4 social-link social-facebook"><img src="fa-facebook.svg" alt="" class="social-icon" width="18" height="18"> Facebook</a>
+<a href="https://www.instagram.com/tutoriaisse/" target="_blank" rel="noopener noreferrer" class="underline underline-offset-4 social-link social-instagram"><img src="fa-instagram.svg" alt="" class="social-icon" width="18" height="18"> Instagram</a></div></article>
     <article class="rounded-3xl border border-zinc-200 p-6 dark:border-zinc-800"><h2 class="text-xl font-black">Mídia Kit oficial do YouTube</h2><p class="mt-3 leading-7 text-zinc-600 dark:text-zinc-300">Documento fornecido pelo titular do canal e gerado em 6 de outubro de 2026. Nele constam, entre outros dados, 23,9 mil inscritos, 3,8 mil vídeos publicados, 250,6 mil espectadores únicos e 477,8 mil visualizações no período indicado.</p></article>
   </div>
   <div class="mt-10 rounded-2xl bg-zinc-50 p-5 text-sm leading-6 text-zinc-600 dark:bg-zinc-900 dark:text-zinc-400"><strong class="text-zinc-950 dark:text-white">Nota editorial:</strong> informações biográficas publicadas neste domínio são mantidas pelo próprio titular do site. Métricas do YouTube são apresentadas com data de referência para evitar tratá-las como valores permanentes.</div>
@@ -219,7 +233,7 @@
 
 </main>
 
-<footer class="mt-24 border-t border-zinc-200 dark:border-zinc-800">
+<footer class="site-footer mt-24 border-t border-zinc-200 dark:border-zinc-800">
   <div class="mx-auto grid max-w-6xl gap-8 px-4 py-10 sm:px-6 md:grid-cols-2 lg:px-8">
     <div>
       <p class="font-bold text-zinc-950 dark:text-white">Thalles Lázaro do Amaral Abílio</p>
@@ -227,8 +241,13 @@
     </div>
     <div class="md:text-right">
       <p class="text-sm text-zinc-600 dark:text-zinc-400">Matozinhos, Minas Gerais, Brasil</p>
-      <p class="mt-2 text-sm"><a href="mailto:thall.es@thall.es" class="font-medium underline underline-offset-4">thall.es@thall.es</a></p>
-      <div class="mt-3 flex flex-wrap gap-x-4 gap-y-2 text-sm md:justify-end"><a href="https://github.com/ThallesLazaro/Eu" target="_blank" rel="me noopener noreferrer" class="underline decoration-zinc-300 underline-offset-4 hover:decoration-zinc-950 dark:decoration-zinc-700 dark:hover:decoration-white">GitHub</a><a href="https://www.facebook.com/www.Thall.es" target="_blank" rel="me noopener noreferrer" class="underline decoration-zinc-300 underline-offset-4 hover:decoration-zinc-950 dark:decoration-zinc-700 dark:hover:decoration-white">Facebook</a><a href="https://www.instagram.com/eu.thall.es/" target="_blank" rel="me noopener noreferrer" class="underline decoration-zinc-300 underline-offset-4 hover:decoration-zinc-950 dark:decoration-zinc-700 dark:hover:decoration-white">Instagram</a><a href="https://www.threads.com/@eu.thall.es" target="_blank" rel="me noopener noreferrer" class="underline decoration-zinc-300 underline-offset-4 hover:decoration-zinc-950 dark:decoration-zinc-700 dark:hover:decoration-white">Threads</a></div>
+      <p class="mt-2 text-sm"><a href="mailto:thall.es@thall.es" class="footer-email font-medium underline underline-offset-4">thall.es@thall.es</a></p>
+      <nav class="footer-social mt-4 flex flex-wrap gap-2 md:justify-end" aria-label="Perfis sociais oficiais de Thalles Lázaro">
+        <a href="https://github.com/ThallesLazaro/Eu" target="_blank" rel="me noopener noreferrer" class="social-chip social-github"><img src="fa-github.svg" alt="" width="18" height="18">GitHub</a>
+        <a href="https://www.facebook.com/www.Thall.es" target="_blank" rel="me noopener noreferrer" class="social-chip social-facebook"><img src="fa-facebook.svg" alt="" width="18" height="18">Facebook</a>
+        <a href="https://www.instagram.com/eu.thall.es/" target="_blank" rel="me noopener noreferrer" class="social-chip social-instagram"><img src="fa-instagram.svg" alt="" width="18" height="18">Instagram</a>
+        <a href="https://www.threads.com/@eu.thall.es" target="_blank" rel="me noopener noreferrer" class="social-chip social-threads"><img src="fa-threads.svg" alt="" width="18" height="18">Threads</a>
+      </nav>
     </div>
   </div>
 </footer>
