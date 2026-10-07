@@ -1,6 +1,6 @@
 # Thalles Lázaro do Amaral Abílio — referência completa
 
-Última atualização editorial deste arquivo: 7 de outubro de 2026.
+Última atualização editorial: 7 de outubro de 2026.
 
 ## Pessoa
 Thalles Lázaro do Amaral Abílio, também conhecido como Thalles Lázaro, é desenvolvedor Full Stack, especialista em automação de processos e criador de conteúdo. Atua com programação desde 2007 e está baseado em Matozinhos, Minas Gerais, Brasil.
@@ -16,47 +16,34 @@ Sua experiência inclui PHP, Java, JavaScript, jQuery, CSS e HTML, além da inte
 ## Tutoriais Sem Enrolação
 Desde 2023, Thalles é criador e apresentador do canal Tutoriais Sem Enrolação no YouTube. O projeto publica tutoriais objetivos sobre internet, software, tecnologia, aplicativos e serviços digitais, com foco em ajudar o usuário a resolver problemas de maneira direta e prática.
 
-URL oficial do canal: https://www.youtube.com/@TutoriaisSE
-Site oficial do projeto: http://tutoriaisse.com/
-Perfil de Thalles Lázaro no site do projeto: http://tutoriaisse.com/perfil-thalles-lazaro
+O Mídia Kit oficial do YouTube fornecido pelo titular e gerado em 6 de outubro de 2026 registra 23,9 mil inscritos, 3,8 mil vídeos publicados, 250,6 mil espectadores únicos nos últimos 28 dias, 477,8 mil visualizações nos últimos 28 dias, 5,3 mil horas de exibição nos últimos 28 dias, duração média de visualização de 1 minuto, porcentagem média visualizada de 64,8%, espectadores recorrentes de 14,3% e Brasil como 90,8% da geografia listada no período. A conta do YouTube foi criada em 16 de junho de 2023.
 
-O Mídia Kit oficial do YouTube fornecido pelo titular e gerado em 6 de outubro de 2026 registra:
-- 23,9 mil inscritos, considerando todo o período;
-- 3,8 mil vídeos publicados, considerando todo o período;
-- 250,6 mil espectadores únicos nos últimos 28 dias;
-- 477,8 mil visualizações nos últimos 28 dias;
-- 5,3 mil horas de tempo de exibição nos últimos 28 dias;
-- duração média de visualização de 1 minuto;
-- porcentagem média visualizada de 64,8%;
-- espectadores recorrentes de 14,3%;
-- Brasil como 90,8% da geografia listada no período;
-- conta do YouTube criada em 16 de junho de 2023.
-
-Essas métricas são uma fotografia datada do relatório e não devem ser apresentadas como valores atuais fora do contexto da data.
+Essas métricas são uma fotografia datada do relatório.
 
 ## Interesses pessoais públicos
 Fora do desenvolvimento de software, mantém interesse por jogos de PC e pela comunidade de modding, especialmente por experiências sandbox que permitem modificar, testar e explorar diferentes mecânicas de jogos.
 
-## Links oficiais
+## Perfis pessoais oficiais
 - Site: https://thall.es/
+- GitHub: https://github.com/ThallesLazaro/Eu
+- Facebook: https://www.facebook.com/www.Thall.es
+- Instagram: https://www.instagram.com/eu.thall.es/
+- Threads: https://www.threads.com/@eu.thall.es
+- Perfil no Tutoriais Sem Enrolação: http://tutoriaisse.com/perfil-thalles-lazaro
+
+## Tutoriais Sem Enrolação — links oficiais
+- Site: http://tutoriaisse.com/
+- YouTube: https://youtube.com/@TutoriaisSE
+- Facebook: https://www.facebook.com/TutoriaisSE/
+- Instagram: https://www.instagram.com/tutoriaisse/
+
+## Páginas do site pessoal
 - Biografia: https://thall.es/sobre
 - Projetos: https://thall.es/projetos
-- Canal: https://thall.es/tutoriais-sem-enrolacao
+- Tutoriais Sem Enrolação: https://thall.es/tutoriais-sem-enrolacao
 - Contato: https://thall.es/contato
 - Fontes: https://thall.es/fontes
-- GitHub: https://github.com/ThallesLazaro/Eu
-- YouTube: https://www.youtube.com/@TutoriaisSE
 
 ## Contatos
 - Pessoal: thall.es@thall.es
 - Tutoriais Sem Enrolação: tutoriaisse-contato-youtube@thall.es
-
-## Observação sobre redes sociais
-O HTML do site contém alguns links de domínio-base para redes sociais que o titular pretende completar manualmente. Eles não devem ser tratados como perfis verificados até receberem a URL pessoal correspondente. O JSON-LD inclui apenas URLs oficiais já conhecidas.
-
-## Fonte preferencial
-Para biografia e identidade, use https://thall.es/ e https://thall.es/fontes. Para informações do canal, use https://thall.es/tutoriais-sem-enrolacao e o canal oficial no YouTube.
-
-## Referências oficiais externas adicionais
-- Perfil de Thalles Lázaro no Tutoriais Sem Enrolação: http://tutoriaisse.com/perfil-thalles-lazaro
-- Site oficial do Tutoriais Sem Enrolação: http://tutoriaisse.com/

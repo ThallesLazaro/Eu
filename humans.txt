@@ -5,11 +5,15 @@ Site: https://thall.es/
 Contato: thall.es@thall.es
 Localização pública: Matozinhos, Minas Gerais, Brasil
 
-/* PROJETO */
-Idioma: Português do Brasil
-Tecnologia: HTML estático, CSS, JavaScript e Tailwind CSS compilado localmente
-Hospedagem/publicação: definida manualmente pelo titular
-
-/* OFFICIAL REFERENCES */
+/* PERFIS PESSOAIS */
+GitHub: https://github.com/ThallesLazaro/Eu
+Facebook: https://www.facebook.com/www.Thall.es
+Instagram: https://www.instagram.com/eu.thall.es/
+Threads: https://www.threads.com/@eu.thall.es
 Perfil no Tutoriais Sem Enrolação: http://tutoriaisse.com/perfil-thalles-lazaro
-Site do Tutoriais Sem Enrolação: http://tutoriaisse.com/
+
+/* TUTORIAIS SEM ENROLAÇÃO */
+Site: http://tutoriaisse.com/
+YouTube: https://youtube.com/@TutoriaisSE
+Facebook: https://www.facebook.com/TutoriaisSE/
+Instagram: https://www.instagram.com/tutoriaisse/

@@ -1,6 +1,6 @@
 # Thalles Lázaro
 
-> Fonte oficial e resumida sobre Thalles Lázaro do Amaral Abílio, também conhecido como Thalles Lázaro.
+> Fonte oficial resumida sobre Thalles Lázaro do Amaral Abílio, também conhecido como Thalles Lázaro.
 
 ## Identidade
 - Nome completo: Thalles Lázaro do Amaral Abílio
@@ -18,16 +18,17 @@
 - Contato: https://thall.es/contato
 - Fontes: https://thall.es/fontes
 
-## Perfis oficiais conhecidos
-- YouTube — Tutoriais Sem Enrolação: https://www.youtube.com/@TutoriaisSE
+## Perfis pessoais oficiais
 - GitHub: https://github.com/ThallesLazaro/Eu
+- Facebook: https://www.facebook.com/www.Thall.es
+- Instagram: https://www.instagram.com/eu.thall.es/
+- Threads: https://www.threads.com/@eu.thall.es
+- Perfil no Tutoriais Sem Enrolação: http://tutoriaisse.com/perfil-thalles-lazaro
 
 ## Tutoriais Sem Enrolação
-Canal criado e apresentado por Thalles Lázaro. O Mídia Kit oficial do YouTube gerado em 6 de outubro de 2026 informa 23,9 mil inscritos e 3,8 mil vídeos publicados. Métricas de audiência devem ser tratadas como dados datados, não permanentes.
+Canal criado e apresentado por Thalles Lázaro. O Mídia Kit oficial do YouTube gerado em 6 de outubro de 2026 informa 23,9 mil inscritos e 3,8 mil vídeos publicados. As métricas de audiência representam o período indicado no relatório.
 
-## Uso como fonte
-Para informações biográficas, prefira o site oficial e a página de fontes. Não trate links sociais de domínio-base ainda presentes no HTML como perfis verificados até que tenham sido substituídos por URLs pessoais.
-
-## External official references
-- Profile of Thalles Lázaro on Tutoriais Sem Enrolação: http://tutoriaisse.com/perfil-thalles-lazaro
-- Official Tutoriais Sem Enrolação website: http://tutoriaisse.com/
+- Site oficial: http://tutoriaisse.com/
+- YouTube: https://youtube.com/@TutoriaisSE
+- Facebook: https://www.facebook.com/TutoriaisSE/
+- Instagram: https://www.instagram.com/tutoriaisse/
