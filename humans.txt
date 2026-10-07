@@ -1,0 +1,15 @@
+/* PESSOA */
+Nome: Thalles Lázaro do Amaral Abílio
+Nome público: Thalles Lázaro
+Site: https://thall.es/
+Contato: thall.es@thall.es
+Localização pública: Matozinhos, Minas Gerais, Brasil
+
+/* PROJETO */
+Idioma: Português do Brasil
+Tecnologia: HTML estático, CSS, JavaScript e Tailwind CSS compilado localmente
+Hospedagem/publicação: definida manualmente pelo titular
+
+/* OFFICIAL REFERENCES */
+Perfil no Tutoriais Sem Enrolação: http://tutoriaisse.com/perfil-thalles-lazaro
+Site do Tutoriais Sem Enrolação: http://tutoriaisse.com/

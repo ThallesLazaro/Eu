@@ -1,0 +1,19 @@
+{
+  "name": "Thalles Lázaro",
+  "short_name": "Thalles Lázaro",
+  "description": "Site pessoal oficial de Thalles Lázaro do Amaral Abílio.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#fafafa",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
