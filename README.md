@@ -41,11 +41,11 @@ Segundo o Mídia Kit oficial do YouTube gerado em **6 de outubro de 2026**, o ca
 
 ### Links do Tutoriais Sem Enrolação
 
-- **Site oficial:** http://tutoriaisse.com/
+- **Site oficial:** https://tutoriaisse.com/
 - **YouTube:** https://youtube.com/@TutoriaisSE
 - **Facebook:** https://www.facebook.com/TutoriaisSE/
 - **Instagram:** https://www.instagram.com/tutoriaisse/
-- **Perfil de Thalles no site:** http://tutoriaisse.com/perfil-thalles-lazaro
+- **Perfil de Thalles no site:** https://tutoriaisse.com//perfis/thalles-lazaro
 
 ## Perfis pessoais oficiais
 
@@ -69,6 +69,6 @@ Segundo o Mídia Kit oficial do YouTube gerado em **6 de outubro de 2026**, o ca
 
 - https://thall.es/
 - https://thall.es/sobre
-- http://tutoriaisse.com/perfil-thalles-lazaro
-- http://tutoriaisse.com/
+- https://tutoriaisse.com//perfis/thalles-lazaro
+- https://tutoriaisse.com/
 - https://youtube.com/@TutoriaisSE
